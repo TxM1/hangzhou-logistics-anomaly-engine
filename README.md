@@ -1,4 +1,4 @@
-# 🚀 Hangzhou Smart-Logistics Anomaly Engine (2026)
+#  Hangzhou Smart-Logistics Anomaly Engine (2026)
 
 ### **Executive Summary**
 In the high-density delivery environment of 2026 Hangzhou, manual oversight of logistics bottlenecks is impossible. This project implements a **Real-time Anomaly Detection Pipeline** designed to identify delivery latency spikes in key districts (Xihu, Binjiang, etc.) using statistical ML.
